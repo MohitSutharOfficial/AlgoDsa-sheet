@@ -32,7 +32,7 @@ The repository includes the following DSA sheets:
 To get started with the repository, you can clone the repository using the following command:
 
 ```
-git clone https://github.com/GFGSC-RTU/All-DSA-Sheets.git
+git clone https://github.com/MohitSutharOfficial/AlgoDsa-sheet.git
 ```
 
 Once you have cloned the repository, you can navigate to the relevant directory and start exploring the DSA sheets.
